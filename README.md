@@ -1,2 +1,2 @@
-# Site da Seleção Brasileira
+# SiteBrazilTeam
 Website for a college assignment on the Brazilian National Football Team.
